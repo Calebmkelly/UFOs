@@ -5,7 +5,7 @@ For this project, the languages of javaScript and HTML will be used and woven to
 ## Results:
 
 figure 1 - full WebPage (No Filter)
-![https://github.com/Calebmkelly/UFOs/blob/main/Images/Full_Page.png](Full_Page.png)
+![Full_Page.png](https://github.com/Calebmkelly/UFOs/blob/main/Images/Full_Page.png)
 
 ## Summary:
 The summary addresses one drawback of this webpage (2 pt)
